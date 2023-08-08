@@ -19,7 +19,7 @@ It is a student registration form that uses JSONPowerDB to store user informatio
 ## Release History
 ### JsonPowerDB
 **Version:** 2.0
-#### Execute API
+#### API Execution
 
 ```
 var baseUrl = "http://api.login2explore.com:5577";
@@ -57,14 +57,15 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 ```
 
-## Features
+## Features of the Form
 
-- Simple to Use
-- Fast Response
-- Detailed User Interface
-## Tech Stack
+-Simple to use
+-Quick response
+-A thorough user interface
 
-**Client:** HTML,CSS,Javascript
+## Tech Stack used
+
+**Client:** HTML, CSS, Javascript
 
 **Server:** JsonPowerDB
 
