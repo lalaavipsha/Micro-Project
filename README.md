@@ -72,7 +72,7 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 ## Screenshots
 
-![PC View1](image/Screenshot 2023-08-08 202531.png)
+@image/Screenshot 2023-08-08 202531.png
 
 ![PC View2]()
 
