@@ -71,12 +71,19 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 
 ## Screenshots:
+### Case-1: This is how the form looks when you first open it.
+![PC View](https://github.com/lalaavipsha/Micro-Project/assets/53574326/93c7ab7a-9e9e-4cd1-a604-945506397f8c)
 
-### Case-1: When data is already stored in JPDB and only the roll number fetches the rest data.
-![PC View 1](https://github.com/lalaavipsha/Micro-Project/assets/53574326/7aebda80-37d1-4f83-afec-fb7148609d18)
+### Case-2: When data is already stored in JPDB and only the roll number fetches the rest data.
+![PC View1](https://github.com/lalaavipsha/Micro-Project/assets/53574326/7aebda80-37d1-4f83-afec-fb7148609d18)
 
-![PC View2]()
+### Case-3: When data is not stored in JPDB and the roll number will not be able to fetch the rest data.
+![PC View2](https://github.com/lalaavipsha/Micro-Project/assets/53574326/35499df7-a7a9-4eb8-a40a-0c6e0f43fc5c)
+
+### How JPDB stores the data from the form
+![DataBase View](https://github.com/lalaavipsha/Micro-Project/assets/53574326/a647fa72-5a2a-4b10-b4b3-7b4f5dd59d28)
 
 ### Mobile View
 
-![PC View2]()
+![Mobile View1](https://github.com/lalaavipsha/Micro-Project/assets/53574326/95846638-0ae0-4591-a6e3-39f03db804f2)
+
