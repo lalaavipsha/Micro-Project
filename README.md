@@ -72,7 +72,7 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 ## Screenshots
 
-@image/Screenshot 2023-08-08 202531.png
+![PC View Case-1: when data is already stored in jpdb and only roll number fetches the rest data.](https://github.com/lalaavipsha/Micro-Project/assets/53574326/7aebda80-37d1-4f83-afec-fb7148609d18)
 
 ![PC View2]()
 
