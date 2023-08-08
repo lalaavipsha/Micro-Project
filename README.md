@@ -72,10 +72,10 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 ## Screenshots
 
-![PC View1](https://i.ibb.co/MnTPjzC/1.png)
+![PC View1]()
 
-![PC View2](https://i.ibb.co/XFNXybp/2.png)
+![PC View2]()
 
 ### Mobile View
 
-![PC View2](https://i.ibb.co/1qwsbVb/3.png)
+![PC View2]()
